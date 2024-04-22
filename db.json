@@ -1,0 +1,47 @@
+{
+    "contact": [
+        {
+            "id": 1,
+            "name": "Khoa Nguyễn",
+            "phonenumber": "0935216417",
+            "avatar": ""
+        },
+        {
+            "id": 2,
+            "name": "Đạt Nguyễn",
+            "phonenumber": "0935123456",
+            "avatar": ""
+        },
+        {
+            "id": 3,
+            "name": "Giang Hoàng",
+            "phonenumber": "0935567890",
+            "avatar": ""
+        }
+    ],
+    "todo": [
+        {
+            "id": 1,
+            "name": "Learing React",
+            "status": "inprocess"
+        },
+        {
+            "id": 1,
+            "name": "Learing HTML",
+            "status": "done"
+        }
+    ],
+    "staff": [
+        {
+            "id": 1,
+            "name" : "Khoa Nguyễn",
+            "gender": true,
+            "hobbies": ["Cờ tướng", "Đọc sách", "Cầu lông"],
+            "company": {
+                "id": 111,
+                "name": "CodeGym Huế",
+                "address": "28 Nguyễn Tri Phương, Phú Nhuận, Tp Huế, TT Huế"
+            }
+        }
+    ]
+}
