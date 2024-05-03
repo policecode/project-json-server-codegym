@@ -2223,29 +2223,47 @@
             "id": 205
           }
     ],
-    "todo": [
-        {
-            "id": 1,
-            "name": "Learing React",
-            "status": "inprocess"
+    "users": [
+          {
+              "id": 1,
+              "email": "admin@gmail.com",
+              "password": "123456789",
+              "first_name": "Nguyễn",
+              "last_name": "Hoàng Đạt",
+              "avatar": "https://scontent.fhan18-1.fna.fbcdn.net/v/t1.6435-9/193664065_3543234375777815_1777641386446509408_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=89e7AQLGEOoQ7kNvgGMKGcp&_nc_ht=scontent.fhan18-1.fna&oh=00_AfBV2VgPs96ipQq3SBjp4UlAXK4zqbHv8fgExICESzzQ7g&oe=665C8754"
+          },
+          {
+            "id": 2,
+            "email": "membertest01@gmail.com",
+            "password": "123456789",
+            "first_name": "Trần",
+            "last_name": "Quang Trung",
+            "avatar": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/439342469_7427847090663808_5691208751084269780_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=d2Pwl1UJCIgQ7kNvgGiqKVV&_nc_ht=scontent.fhan18-1.fna&oh=00_AfA-BE44zNnbCHNnnzkdS2zvUhLno4aqScfzqsEdjHySTA&oe=663AE86C"
         },
         {
-            "id": 1,
-            "name": "Learing HTML",
-            "status": "done"
-        }
-    ],
-    "staff": [
-        {
-            "id": 1,
-            "name" : "Khoa Nguyễn",
-            "gender": true,
-            "hobbies": ["Cờ tướng", "Đọc sách", "Cầu lông"],
-            "company": {
-                "id": 111,
-                "name": "CodeGym Huế",
-                "address": "28 Nguyễn Tri Phương, Phú Nhuận, Tp Huế, TT Huế"
-            }
-        }
+          "id": 3,
+          "email": "membertest02@gmail.com",
+          "password": "123456789",
+          "first_name": "Trần",
+          "last_name": "Phương Linh",
+          "avatar": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/338902796_1654838134953391_5778320950202636077_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1glpmk39_PUQ7kNvgGFnXAQ&_nc_ht=scontent.fhan18-1.fna&oh=00_AfBlOJw3P3IcY70K-cX88T00S-sFWx5FbL8f01_nnus7gg&oe=663AEE66"
+      },
+      {
+        "id": 4,
+        "email": "membertest03@gmail.com",
+        "password": "123456789",
+        "first_name": "Nguyễn",
+        "last_name": "Mạnh Trung",
+        "avatar": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/438254101_2179089172431098_1341465569785849556_n.jpg?stp=dst-jpg_s600x600&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=F_ivX7oQOBcQ7kNvgHAIgC6&_nc_ht=scontent.fhan18-1.fna&oh=00_AfAYKqpXbz03spl87YaEHp2aEpghzM1tk4KwWKoDvoIQ-g&oe=663B0B45"
+      },
+      {
+        "id": 5,
+        "email": "membertest04@gmail.com",
+        "password": "123456789",
+        "first_name": "Nguyễn",
+        "last_name": "Tiến Ngọc",
+        "avatar": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/440011393_2715361201955575_2404867898341383468_n.jpg?stp=cp6_dst-jpg_p526x296&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zs-_VZoSkzcQ7kNvgEIyX8p&_nc_ht=scontent.fhan18-1.fna&oh=00_AfAgaBgkv416hmRkRBtBOtzHDooI5nhH3MAXyi-0xUJYmw&oe=663AF2D3"
+      }
     ]
+   
 }
